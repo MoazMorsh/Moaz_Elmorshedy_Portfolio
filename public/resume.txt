@@ -1,0 +1,66 @@
+Moaz Osama Rabea Mohamed Elmorshedy 
+Email: moaz.elmorsheedy@gmail.com 
+325 Compound Gardenia, Nasr City, Cairo, Egypt • (+20)1147797402 
+Portfolio: https://moazmorsh.github.io/  • linkedin.com/in/moaz-el-morshdy 
+— Objective — 
+Motivated senior student at Helwan University majoring in Business Information Systems, specializing in integrating 
+business strategies with advanced data analysis techniques. Equipped with robust problemsolving and analytical skills, 
+seeking a data analyst role to leverage expertise in Power Bl, SQL, Python, and Machine Learning for actionable business 
+insights.  
+— Skills — 
+Technical: SQL, Python, Power BI, Tableau, Looker, Excel (Pivot Tables, Macros), Jupyter Notebook, Git, Docker, 
+PostgreSQL, MySQL, Pandas, Numpy, Matplotlib, Seaborn, Selenium, BeautifulSoup, web development 
+Business Intelligence: Data visualization, Reporting Automation, KPI tracking, Dashboard optimization. 
+Administrative: Dashboard creation, Data validation, Documentation workflow. 
+Collaborative: Data storytelling, Cross-functional communication, stakeholder alignment. 
+Languages: Arabic (Native), English (intermediate), Germany (A1), Russian (A1). 
+— Work Experience — 
+Rawmart | Data Analyst Intern 07/2024 - 09/2024 
+ Gained understanding of Rawmart's business operations.  
+ Optimized data sheets for each team, improving efficiency by 10%.  
+ Demonstrated teamwork and communication skills in meetings and email correspondence with teams. 
+ Created interactive charts using pivot tables in Google Sheets.  
+ Developed operational dashboards in Looker Studio, reducing report generation time by 15%.  
+ Built analytical dashboards to track performance, delivering insights that resolved 5 key issues..  
+ 
+National Bank of Egypt | Summer Internship         06/2024 - 07/2024 
+ Department: Banking Operations (Accounts Opening).  
+ Processed account openings with 98% accuracy under tight deadlines.  
+ Showed adaptability in learning banking systems quickly.  
+ 
+InfoTech, Remote | Data Scientist Internship   05/2024 - 06/2024 
+ Developed SQL queries, enhancing data retrieval speed by 20%. 
+ Improved database performance and accessibility.  
+ Applied machine learning techniques to business data, increasing forecast accuracy by 12%.  
+ Conducted predictive analytics to support business forecasting.  
+ Exhibited problem-solving skills in resolving data inconsistencies.  
+ 
+Financial Regulatory Authority, Cairo | Summer Internship  07/2023 - 08/2023 
+ Department: Information Technology as a Business Analyst  
+ Analyzed business processes, reducing documentation errors by 8%.  
+ Collaborated with IT teams, showcasing strong teamwork. Languages  
+— Education — 
+Cleopatra Language School 
+High school, 2021 
+ 
+Helwan University  
+Bachelor's Degree in Business Information System, 2025 
+Excellent with Honor, GPA 3.9 
+— Projects — 
+ Sales Insights — Meriskills Power Bl, SQL  
+─ Developed a sales dashboard to analyze trends and boost revenue by 7%.  
+ 
+ HR Data Analytics — Meriskills Power BI, Excel  
+─ Streamlined HR processes, saving 3-4 hours daily with an efficient dashboard.  
+ 
+ YouTube Songs Data Analytics — Mentorness Power BI, Python, Excel  
+─ Created dynamic visualizations and performed in-depth data analysis, improving insight delivery time by 
+25%.  
+ 
+ COVID-19 Data Analytics — Mentorness SQL, Excel  
+─ Analyzed pandemic data trends, providing actionable insights to stakeholders.  
+ 
+ Car Price Prediction — ML BookCamp Machine Learning  
+─ Developed a predictive model for car prices using historical sales data.  
+─ Conducted exploratory data analysis (EDA) to identify key prices factors. 
+─ Implemented linear regression models, achieving 85% prediction accuracy
