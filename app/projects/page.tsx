@@ -188,11 +188,11 @@ export default function ProjectsPage() {
     },
 
   {
-      title: "Graduation Project BIS 2025 Presentation",
+      title: "Graduation Project BIS 2025",
       image: "https://res.cloudinary.com/dzj5xj6sq/image/upload/v1769516733/Photo_from_Moaz_Morsh_hey4ou.jpg",
       description:
-        "Professional presentation showcasing graduation project details (Problem, Solution, Imapact & Furture Vision).",
-      tags: ["TypeScript", "JavaScript", "CSS"],
+        "MediTrack is a Website that Provides a Communication Between Patients and Pharmacies for Finding The Medicines with Lack in Market.",
+      tags: ["TypeScript", "JavaScript", "CSS", "Backend"],
       category: "webdev",
       demo: "https://github.com/MoazMorsh/Meditrack_pharmacy.git"
     },
